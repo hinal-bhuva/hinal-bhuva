@@ -1,4 +1,4 @@
-# Hinal-QA-Portfolio
+  # Hinal-QA-Portfolio
 
 ### QA Engineer | Manual Testing | API Testing | Automation - Selenium with Core Java & Playwright with JavaScript | Mobile & Web Testing | AI in Testing | Automation & Quality × AI insights
 
@@ -52,7 +52,7 @@ LinkedIn: https://www.linkedin.com/in/hinal-bhuva-691652260/
 
 Email: hinalbhuva22@gmail.com
 
-Github: https://github.com/HinalBhuva22
+Github: https://github.com/hinal-bhuva
 
 Location: Surat, Gujarat, India
 
